@@ -45,7 +45,7 @@ unsigned long long int add(unsigned long long int op1, unsigned long long int op
 			}
 	};
 	// a, b, c
-	int cout[2][2][2] = {
+	const int cout[2][2][2] = {
 		// a = 0
 			{
 				// b = 0
