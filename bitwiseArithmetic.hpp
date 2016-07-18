@@ -2,7 +2,7 @@
 // Author: Ahmad Siavashi (ahmad.siavashi@gmail.com)
 // Date: Summer 2016
 // Description: Performing Bitwise Addition & Multiplication
-// Language: C++
+// Languages: C(89+)/C++
 
 #pragma once
 
