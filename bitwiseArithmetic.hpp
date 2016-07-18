@@ -8,7 +8,7 @@
 
 unsigned long long int add(unsigned long long int op1, unsigned long long int op2){
 	// a, b, c
-	int sum[2][2][2] = {
+	const int sum[2][2][2] = {
 		// a = 0
 			{
 				// b = 0
